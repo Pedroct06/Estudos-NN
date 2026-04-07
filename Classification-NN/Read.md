@@ -1,0 +1,1 @@
+Fiz um modelo de classificação para um dataset de pedra, papel e tesoura
